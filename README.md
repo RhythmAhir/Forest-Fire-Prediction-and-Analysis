@@ -164,9 +164,9 @@ For both regression and classification tasks, I applied k-fold cross-validation 
 | Model              | R² Score | Mean Absolute Error (MAE) |
 |---------------------|----------|---------------------------|
 | Linear Regression   | 0.98     | 0.56                      |
-| Lasso Regression    | 0.94     | 1.13                      |
+| Lasso Regression    | 0.98     | 0.61                      |
 | Ridge Regression    | 0.98     | 0.56                      |
-| ElasticNet Regression | 0.87   | 1.88                      |
+| ElasticNet Regression | 0.98   | 0.65                      |
 
 **Observations:**
 - Ridge Regression matched the performance of Linear Regression while offering better robustness against overfitting.

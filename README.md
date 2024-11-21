@@ -115,10 +115,6 @@ Using the correlation matrix, I identified and removed highly correlated feature
 
 ---
 
-Here's the updated **Model Training and Results** section incorporating the new classification results:
-
----
-
 ### **3.4 Model Training**
 To achieve the project objectives, I implemented both regression models (for predicting FWI) and classification models (for predicting fire occurrence). Each model was trained and evaluated using appropriate metrics.
 
